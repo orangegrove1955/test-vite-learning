@@ -5,6 +5,7 @@ import path from "path";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/test-vite-learning/",
   plugins: [react(), tailwindcss()],
   test: {
     environment: "jsdom",
