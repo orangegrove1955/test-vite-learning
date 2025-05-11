@@ -12,3 +12,5 @@ Incorporates learnings from the following:
 - MSW
 - Github Actions
 - Deployment via Github pages
+
+The purpose of this repo is just to be a place where I can mess around with the above technologies, in order to learn through experience.
